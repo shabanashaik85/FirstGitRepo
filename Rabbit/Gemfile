@@ -1,0 +1,9 @@
+source 'https://rubygems.org'
+
+gem 'rubygem'
+gem 'watir-webdriver'
+gem 'cucumber'
+gem 'rspec'
+gem 'page-object'
+gem 'rspec-expectations'
+
