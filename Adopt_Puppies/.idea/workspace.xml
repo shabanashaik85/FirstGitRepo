@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\Rabbit\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\Shaadi\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.idea\magentys-ruby-automation-framework.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\.project" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\magentys-ruby-automation-framework\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\EDWIN\Documents\GitHub\Tesco\puppy_adoption\.idea\.name" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Yahoo/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/../Yahoo/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Yahoo/Gemfile" afterPath="$PROJECT_DIR$/../Yahoo/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Yahoo/.idea/Yahoo.iml" afterPath="$PROJECT_DIR$/../Yahoo/.idea/Yahoo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Yahoo/features/Yahoo_Project.feature" afterPath="$PROJECT_DIR$/../Yahoo/features/Yahoo_Project.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/adopting_puppy_steps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/adopting_puppy_steps.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Yahoo/features/support/env.rb" afterPath="$PROJECT_DIR$/../Yahoo/features/support/env.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/Pages/shopping_cart_page.rb" afterPath="$PROJECT_DIR$/features/support/Pages/shopping_cart_page.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Yahoo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Yahoo/.idea/workspace.xml" />
     </list>
     <ignored path="Adopt_Puppies.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +12,7 @@
     <file path="/adopting_puppy_steps.rb" changelist="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" time="1409757494480" ignored="false" />
     <file path="/adopting_puppies.feature" changelist="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" time="1408185494150" ignored="false" />
     <file path="/adopting_two_puppies_steps.rb" changelist="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" time="1407509039485" ignored="false" />
-    <file path="/Dummy.txt" changelist="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" time="1410959583995" ignored="false" />
+    <file path="/Dummy.txt" changelist="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" time="1411045767054" ignored="false" />
     <file path="$PROJECT_DIR$/../Shaadi/features/step_definitions/Shaadi_step.rb" changelist="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" time="1407783606889" ignored="false" />
     <file path="/Shaadi_step.rb" changelist="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" time="1407586370438" ignored="false" />
     <file path="$PROJECT_DIR$/../Shaadi/features/Shaadi.feature" changelist="48a2d1fc-16be-44e2-adf7-8cf56fe431d3" time="1407586539389" ignored="false" />
@@ -82,25 +57,25 @@
       <file leaf-file-name="adopting_puppies.feature" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/adopting_puppies.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="14" selection-start="1276" selection-end="1276" vertical-scroll-proportion="0.0">
+            <state line="33" column="8" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shopping_cart_page.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="shopping_cart_page.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/support/Pages/shopping_cart_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.62125343">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="adopting_puppy_steps.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="adopting_puppy_steps.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/adopting_puppy_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="43" selection-start="356" selection-end="356" vertical-scroll-proportion="0.6021798">
+            <state line="15" column="0" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,8 +115,8 @@
         <option value="$PROJECT_DIR$/features/adopting_puppies.feature" />
         <option value="$PROJECT_DIR$/features/support/hooks.rb" />
         <option value="$PROJECT_DIR$/features/support/env.rb" />
-        <option value="$PROJECT_DIR$/features/step_definitions/adopting_puppy_steps.rb" />
         <option value="$PROJECT_DIR$/features/support/Pages/shopping_cart_page.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/adopting_puppy_steps.rb" />
       </list>
     </option>
   </component>
@@ -193,6 +168,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -289,18 +265,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.ruby.settings.RubyIdeSdkConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Cucumber.Validate cart with two puppies">
     <configuration default="false" name="Adopting two puppies" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
@@ -562,18 +537,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
-    <editor active="false" />
+    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23348695" sideWeight="0.66497463" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23732719" sideWeight="0.66497463" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39772728" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33502537" sideWeight="0.21812595" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33502537" sideWeight="0.78187406" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33502537" sideWeight="0.78187406" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -698,9 +673,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="12" selection-start="87" selection-end="87" vertical-scroll-proportion="0.41689372">
-          <folding />
-        </state>
+        <state line="9" column="12" selection-start="87" selection-end="87" vertical-scroll-proportion="0.41689372" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -717,23 +690,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/Pages/shopping_cart_page.rb">
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/adopting_puppy_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+        <state line="15" column="0" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/adopting_puppies.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="14" selection-start="1276" selection-end="1276" vertical-scroll-proportion="0.0">
+        <state line="33" column="8" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/adopting_puppy_steps.rb">
+    <entry file="file://$PROJECT_DIR$/features/support/Pages/shopping_cart_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="43" selection-start="356" selection-end="356" vertical-scroll-proportion="0.6021798">
+        <state line="1" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.62125343">
           <folding />
         </state>
       </provider>
