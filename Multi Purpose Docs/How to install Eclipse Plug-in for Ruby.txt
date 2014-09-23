@@ -1,0 +1,4 @@
+How to install Eclipse IDE and its Ruby plug-in to work on Ruby
+
+Follow this link as it has the link for both Eclipse and its plug in for Ruby
+http://beans.seartipy.com/2006/08/12/develop-ruby-applications-using-eclipse-ide/
